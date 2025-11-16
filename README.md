@@ -13,13 +13,13 @@ My core expertise spans:
 - **Model development & governance**: Fine-tuning large language models (LLMs), managing bias, interpretability, responsible AI frameworks.  
 - **Big Data & cloud**: Hive, Hadoop, Spark, AWS & GCP large-scale architectures, production MLOps/CI-CD/monitoring.  
 - **Engineering to production**: Building pipelines; batch + streaming; parallel processing; Databricks & Delta Tables at scale.  
-- **Business impact**: Translating analytics into personas, segments and customer-centric actions (for example: 11-persona framework for AT&T).  
+- **Business impact**: Translating analytics into personas, segments and customer-centric actions.
 
 ---
 
 ## 🚀 What I’m Working On  
 - Real-time segmentation and matching for IVR & contact-centre scenarios — dynamically scoring personas and routing/triggering personalized actions.  
-- Knowledge-base automation: Using GPT-3.5; identifying duplicate issues & resolutions; incorporating seamlessly into enterprise support.  
+- Knowledge-base automation: Using GPT; identifying duplicate issues & resolutions; incorporating seamlessly into enterprise support.  
 - Learning and leveraging LangChain & Agentic AI for next-gen conversational platforms.  
 - Enhancing observability & safe-guarding in ML pipelines: drift detection, audit logs, fairness checks, logging, alerting.  
 
@@ -36,12 +36,9 @@ My core expertise spans:
 ## 📂 Selected Projects & Highlights  
 | Title | Description |
 |-------|-------------|
-| Real-time IVR Persona Matching | Developed multi-dimensional scoring (Identity, Usage, Behavior, Churn Risk) for live IVR routing — enabling tailored customer experience for mobility & broadband users. |
-| Automated Knowledge-Base System | Leveraged GPT-3.5 to parse thousands of call transcripts, extract root causes & resolutions; dedupe similar issues; update KB in near real-time. |
+| Automated Knowledge-Base System | Leveraged GPT-3.5 to parse millions of call transcripts, extract root causes & resolutions; dedupe similar issues; update KB in near real-time. |
 | End-to-End MLOps Pipeline | Built in Databricks: ingesting 100k+ call records hourly, extracting summaries, customer intent & sentiment, writing to Delta Tables with full logging/error-handling. |
 | Learning LangChain & Agentic AI | Deep-diving into foundations and building prototype agents to support conversational automation and directed knowledge flow. |
-
-(See my pinned repositories for code, notebooks and architecture diagrams.)  
 
 ---
 

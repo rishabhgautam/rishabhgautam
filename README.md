@@ -6,7 +6,7 @@
 ---
 
 ## 🧠 About Me  
-With 14+ years of experience and 12+ years dedicated to Data Science & Advanced Analytics, I thrive at the intersection of strategy, scale and execution.  
+With 15 years of experience and 12+ years dedicated to Data Science & Advanced Analytics, I thrive at the intersection of strategy, scale and execution.  
 I architect and operationalize AI/ML solutions that drive digital transformation — from large-scale segmentation for broadband/mobility customers, to real-time IVR-agent matching pipelines and generative knowledge-base automation.  
 
 My core expertise spans:  
